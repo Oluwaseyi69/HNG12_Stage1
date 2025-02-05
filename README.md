@@ -11,6 +11,24 @@ API Integration: Numbers API
 ## Overview
 This API classifies a given number by checking its mathematical properties (prime, perfect, Armstrong, etc.) and provides a fun fact.
 
+# Installation 
+
+**Clone this repository
+git clone https://github.com/Oluwaseyi69/HNG12-Stage1.git
+
+**Navigate into the project directory
+cd HNG12-Stage1
+Install dependencies:
+npm install
+
+**Create a .env file
+PORT=
+NUMBERS_API_URL=http://numbersapi.com
+
+**Start the server
+node index.js
+
+
 ## Endpoint
 **GET** `/api/classify-number?number=4`
 
