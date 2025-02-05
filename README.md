@@ -2,6 +2,8 @@
 
 # Number Classification API
 
+# Stack
+
 🛠️ Technology Stack
 Backend: Node.js (Express)
 Hosting: Render
@@ -23,7 +25,8 @@ cd HNG12-Stage1
 npm install
 
 # Create a .env file
-PORT=
+PORT={}
+
 NUMBERS_API_URL=http://numbersapi.com
 
 # Start the server
@@ -31,7 +34,7 @@ node index.js
 
 
 ## Endpoint
-**GET** `/api/classify-number?number=4`
+**GET** `https://hng12-stage1-gcv9.onrender.com/api/classify-number?number=4`
 
 ### Example Response (200 OK)
 ```json
