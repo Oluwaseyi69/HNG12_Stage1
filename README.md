@@ -5,9 +5,13 @@
 # Stack
 
 🛠️ Technology Stack
+
 Backend: Node.js (Express)
+
 Hosting: Render
+
 Version Control: GitHub
+
 API Integration: Numbers API
 
 ## Overview
