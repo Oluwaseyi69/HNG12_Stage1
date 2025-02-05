@@ -13,19 +13,20 @@ This API classifies a given number by checking its mathematical properties (prim
 
 # Installation 
 
-**Clone this repository
+# Clone this repository
+
 git clone https://github.com/Oluwaseyi69/HNG12-Stage1.git
 
-**Navigate into the project directory
+# Navigate into the project directory
 cd HNG12-Stage1
-Install dependencies:
+# Install dependencies:
 npm install
 
-**Create a .env file
+# Create a .env file
 PORT=
 NUMBERS_API_URL=http://numbersapi.com
 
-**Start the server
+# Start the server
 node index.js
 
 
